@@ -3,14 +3,10 @@ main
     border: solid 2px;
     width: 25%;
 }
-p
+#affiche
 {
     background-color: grey;
-    width: 80%%;
-    margin: auto;
-    line-height: 2em;
-    font-weight: bold;
-    font-size: 15px;
+    width: 97%;
     color: white;
 }
 input
@@ -20,4 +16,8 @@ input
 #toucheEgal
 {
     width: 47%;
+}
+
+#reset {
+  width: 97%;
 }
