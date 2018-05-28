@@ -1,0 +1,23 @@
+main
+{
+    border: solid 2px;
+    width: 25%;
+}
+p
+{
+    background-color: grey;
+    width: 80%%;
+    margin: auto;
+    line-height: 2em;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+input
+{
+    width: 22%;
+}
+#toucheEgal
+{
+    width: 47%;
+}
