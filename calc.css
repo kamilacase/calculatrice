@@ -5,9 +5,9 @@ main
 }
 #affiche
 {
-    background-color: grey;
+    background-color: white;
     width: 97%;
-    color: white;
+    color: black;
 }
 input
 {
